@@ -1,1 +1,1 @@
-git add runtime.txt
+python-3.10
