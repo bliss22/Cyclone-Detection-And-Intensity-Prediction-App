@@ -1,7 +1,7 @@
 streamlit>=1.30
 numpy>=1.24
 pandas>=1.5
-opencv-python-headless>=4.8
+opencv-python
 Pillow>=9.5
 matplotlib>=3.7
 tensorflow==2.18
